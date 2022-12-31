@@ -4,7 +4,7 @@ import Me from './Me';
 import Projects from './Projects';
 import Work from './Work';
 import Education from './Education';
-import index from './index.sscss'
+import './index.scss'
 
 
 const Pages = ({ user }) => {
